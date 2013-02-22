@@ -1,0 +1,3 @@
+[submodule "matael"]
+	path = matael
+	url = git://github.com/Matael/dotfiles.git
