@@ -1,3 +1,6 @@
 [submodule "matael"]
 	path = matael
 	url = git://github.com/Matael/dotfiles.git
+[submodule "feedoo"]
+	path = feedoo
+	url = git@github.com:FredBlain/dotfiles.git
