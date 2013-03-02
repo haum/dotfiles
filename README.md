@@ -6,6 +6,7 @@ Dotfiles des membres
 Membres actuellement listés :
 
 - matael
+- feedoo
 
 Comment s'ajouter
 =================
